@@ -1,2 +1,2 @@
-# conectionPool
-conectaron pool properties
+# connectionPool
+connection pool properties
