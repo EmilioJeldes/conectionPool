@@ -1,0 +1,3 @@
+user								userName // sys or system by default
+password						dbPass
+URL									jdbc:oracle:thin:@localhost:1521:XE

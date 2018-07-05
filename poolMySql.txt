@@ -1,0 +1,7 @@
+URL 								jdbc:mysql://localhost:3306/[dbName]
+user								userName // root by default
+password 						dbPassword
+driverClass					com.mysql.jdbc.Driver
+portNumber					3306 // by default, change it if you need
+dataBaseName				dbName
+serverName					localhost // default, change it if you need to connect to a remote db
